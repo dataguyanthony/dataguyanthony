@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @anthonythedataguy
-- 👀 I’m interested in Python, SQL, Data Engineering/Architecture and Data Science (Machine Learning)
-- 🌱 I’m currently learning Machine Learning and cloud architecture.
-- 💞️ I’m looking to collaborate on everything above
+# 👋 Hi, I’m Anthony, the data guy
 
-<!---
-anthonythedataguy/anthonythedataguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently a Manager of Information Systems but I've been a Data Engineer and Architect for the past 10 years. Most of my experience has been with SQL but I also work with Python and Power BI. I enjoy working on data projects and architecting solutions using cloud platforms like Azure and AWS. I'm an analyst and enjoy putting technology in place to help my users so I spend quite a bit of time learning cloud solutions and machine learning.
+
+When not working or studying I'm a dad, DIYer and outdoors enthusiast. You can find me playing with my daughter, making changes around the house or far from reception.
+
+Feel free to connect or contact me via [LinkedIn](https://www.linkedin.com/in/anthonythedataguy).
